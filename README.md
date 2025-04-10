@@ -5,7 +5,7 @@ Estudante de Análise e Desenvolvimento de Sistemas | Foco em Backend e Análise
 </i></p>
 
 <p align="center">
-  <img src="assets/banner.png" alt="Banner com frase do Linkin Park"width="300" />
+  <img src="assets/banner.png" alt="Banner com frase do Linkin Park"width="400"align="left" />
 </p>
 
 ---
@@ -55,6 +55,9 @@ Acredito no poder da tecnologia para **tornar as cidades mais verdes**, **melhor
 - 📧 erivanial.s1507@gmail.com
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=Erivanialeal&theme=dracula&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 
 
