@@ -5,7 +5,7 @@ Estudante de Análise e Desenvolvimento de Sistemas | Foco em Backend e Análise
 </i></p>
 
 <p align="center">
-  <img src="assets/banner.png" alt="Banner com frase do Linkin Park" />
+  <img src="assets/banner.png" alt="Banner com frase do Linkin Park"width="300" />
 </p>
 
 ---
