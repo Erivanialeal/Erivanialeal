@@ -28,6 +28,17 @@ Acredito no poder da tecnologia para **tornar as cidades mais verdes**, **melhor
 ![Inglês](https://img.shields.io/badge/-English%20Learning-blue?style=for-the-badge&logo=duolingo&logoColor=white)
 
 ---
+# 🌟 Meus Projetos no GitHub
+
+Olá! Aqui estão alguns dos meus principais projetos:
+
+- 📚 [Agenda de Contatos](https://github.com/seu-usuario/agenda-contatos)
+- 🌱 [Projeto de Plantio de Árvores](https://github.com/seu-usuario/projeto-plantio)
+- 🛣️ [App de Rotas Inteligentes](https://github.com/seu-usuario/rotas-inteligentes)
+- 🤖 [Detector de Movimento com Reconhecimento Facial](https://github.com/seu-usuario/reconhecimento-movimento)
+
+➡️ [Veja todos os meus repositórios](https://github.com/seu-usuario?tab=repositories)
+
 
 ### 📈 GitHub Insights
 
