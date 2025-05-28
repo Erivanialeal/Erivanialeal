@@ -32,12 +32,10 @@ Acredito no poder da tecnologia para **tornar as cidades mais verdes**, **melhor
 
 Olá! Aqui estão alguns dos meus principais projetos:
 
-- 📚 [Agenda de Contatos](https://github.com/seu-usuario/agenda-contatos)
-- 🌱 [Projeto de Plantio de Árvores](https://github.com/seu-usuario/projeto-plantio)
-- 🛣️ [App de Rotas Inteligentes](https://github.com/seu-usuario/rotas-inteligentes)
-- 🤖 [Detector de Movimento com Reconhecimento Facial](https://github.com/seu-usuario/reconhecimento-movimento)
-
-➡️ [Veja todos os meus repositórios](https://github.com/seu-usuario?tab=repositories)
+-  [Trilha Python](https://github.com/Erivanialeal/Trinha_python)
+-  [Sabor Em Casa](https://github.com/Erivanialeal/Sabor_Em_Casa)
+-  [analise emissão CO2](https://github.com/Erivanialeal/analise_emissao_CO2)
+-  [rota rapida](https://github.com/Erivanialeal/rota_rapida)
 
 
 ### 📈 GitHub Insights
