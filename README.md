@@ -12,9 +12,7 @@ Estudante de Análise e Desenvolvimento de Sistemas | Foco em Backend e Análise
 
 ### 💡 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas há 1 ano e 3 meses, apaixonada por tecnologia que transforma. Busco meu primeiro estágio como desenvolvedora backend em empresas que se preocupam com o mundo em que vivemos.
-
-Acredito no poder da tecnologia para **tornar as cidades mais verdes**, **melhorar a vida das pessoas**, e **criar soluções humanas** para os desafios da sociedade — da educação à saúde, do setor bancário ao agro.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web backend. Apaixonada por tecnologia que conecta, transforma e soluciona. Busco meu primeiro estágio no setor bancário, onde quero aplicar minhas habilidades em prol de soluções eficientes e humanas.
 
 ---
 
