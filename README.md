@@ -32,7 +32,7 @@ Olá! Aqui estão alguns dos meus principais projetos:
 
 -  [Trilha Python](https://github.com/Erivanialeal/Trilha_python)
 -  [Sabor Em Casa](https://github.com/Erivanialeal/Sabor_Em_Casa)
--  [analise emissão CO2](https://github.com/Erivanialeal/analise-emissao_CO2)
+-  [pacote_de_processamento_de_imagem](https://github.com/Erivanialeal/pacote_de_processamento_de_imagem_com_python)
 -  [rota rapida](https://github.com/Erivanialeal/rota_rapida)
 
 
