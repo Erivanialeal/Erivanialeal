@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner com frase do Linkin Park" width="100%" />
+  <img src="assets/banner.png" alt="Banner com frase do Linkin Park" width="50%" />
 </p>
 
 
