@@ -1,18 +1,20 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner com frase do Linkin Park" width="100%" />
+</p>
+
+
 <h1 align="center">👋 Olá, eu sou a Erivania Leal!</h1>
 
 <p align="center"><i>
-Estudante de Análise e Desenvolvimento de Sistemas | Foco em Backend e Análise de Dados | Tecnologia com propósito 🌍
+Estudante de Análise e Desenvolvimento de Sistemas | Foco em Desenvolvimento web Backend | Tecnologia com propósito 🌍
 </i></p>
-
-<p align="center">
-  <img src="assets/banner.png" alt="Banner com frase do Linkin Park"width="400"align="left" />
-</p>
 
 ---
 
+
 ### 💡 Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web backend. Apaixonada por tecnologia que conecta, transforma e soluciona. Busco meu primeiro estágio no setor bancário, onde quero aplicar minhas habilidades em prol de soluções eficientes e humanas.
+ou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia. Escolhi essa área porque acredito na tecnologia tanto para alcançar liberdade profissional e financeira, quanto para impactar positivamente a sociedade. Ao estudar programação, percebi que podemos contribuir de forma significativa para melhorar a mobilidade urbana, facilitar o dia a dia das pessoas e até ajudar na preservação do meio ambiente. Para mim, é essencial fazer parte de uma empresa que se preocupa não apenas com resultados, mas com o bem-estar social e ambiental. A tecnologia nem sempre foi meu sonho de infância. Diferente de muitos colegas, só descobri esse universo mais tarde. Antes, eu era insegura e achava que não seria capaz de aprender algo tão complexo. Mas com esforço e dedicação, descobri que sou capaz de tudo o que me proponho a fazer. A programação me ensinou a ser resiliente, persistente e a não desistir diante dos erros. Aprendi que a vida, assim como o código, raramente funciona perfeitamente na primeira tentativa e tudo bem. O importante é continuar tentando, ajustando e evoluindo.
 
 ---
 
@@ -24,6 +26,8 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento 
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Inglês](https://img.shields.io/badge/-English%20Learning-blue?style=for-the-badge&logo=duolingo&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 
 ---
 # 🌟 Meus Projetos no GitHub
