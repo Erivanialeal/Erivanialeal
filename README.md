@@ -39,6 +39,7 @@ Olá! Aqui estão alguns dos meus principais projetos:
 -  [pacote_de_processamento_de_imagem](https://github.com/Erivanialeal/pacote_de_processamento_de_imagem_com_python)
 -  [rota rapida](https://github.com/Erivanialeal/rota_rapida)
 -  [desafio-poo-dio](https://github.com/Erivanialeal/desafio-poo-dio)
+-  [agenda_contatos](https://github.com/Erivanialeal/Agenda_contatos)
 
 
 ### 📈 GitHub Insights
