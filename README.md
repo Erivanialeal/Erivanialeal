@@ -38,8 +38,9 @@ Acredito que a excelência técnica é construída com dedicação, aprendizado 
 
 Olá! Aqui estão alguns dos meus principais projetos:
 
--  [Cliente - pet](https://github.com/Erivanialeal/cliente-pet)
--  [cadasto_beneficiario](https://github.com/Erivanialeal/cadastro_beneficiario/tree/develop)
+-  [Cliente - Pet](https://github.com/Erivanialeal/cliente-pet)
+-  [Cadasto_Beneficiario](https://github.com/Erivanialeal/cadastro_beneficiario/tree/develop)
+-  [Sistema De Gestão De Funcionario](https://github.com/Erivanialeal/sistema_de_gestao_de_funcionario)
   
 ---
 
