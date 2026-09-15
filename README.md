@@ -43,13 +43,9 @@ Olá! Aqui estão alguns dos meus principais projetos:
   
 ---
 
-### 🎯 Meus objetivos
+### 🎯 Meu objetivo
 
-💼 Conquistar minha primeira oportunidade como desenvolvedora backend Java júnior.
-☕ Tornar-me especialista em desenvolvimento backend, evoluindo continuamente minhas habilidades em Java, Spring Boot, APIs REST, bancos de dados e arquitetura de software.
-🧠 Desenvolver soluções de alta qualidade, priorizando boas práticas, desempenho, segurança e as necessidades dos clientes.
-🚀 Construir uma carreira baseada em aprendizado contínuo, excelência técnica e entrega de resultados.
-
+Engenheira de Software - Java Spring Boot
 ---
 
 ### 📫 Contato
