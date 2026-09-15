@@ -37,7 +37,7 @@ Construindo minha carreira como Desenvolvedora Backend Java ☕
 
 Olá! Aqui estão alguns dos meus principais projetos:
 
--  [Cliente - Pet](https://github.com/Erivanialeal/cliente-pet)
+-  [produdoro](https://github.com/tribos-dev/produdoro-t2026-01-s06)
 -  [Cadasto_Beneficiario](https://github.com/Erivanialeal/cadastro_beneficiario/tree/develop)
 -  [Sistema De Gestão De Funcionario](https://github.com/Erivanialeal/sistema_de_gestao_de_funcionario)
   
