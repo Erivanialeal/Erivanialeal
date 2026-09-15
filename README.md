@@ -11,11 +11,10 @@ Construindo minha carreira como Desenvolvedora Backend Java ☕
 
 
 ### 💡 Sobre mim
-
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend utilizando Java e Spring Boot. Busco evoluir continuamente por meio de projetos práticos, estudo constante e desafios que fortaleçam minha capacidade de desenvolver soluções robustas e bem estruturadas.
-
-Acredito que a excelência técnica é construída com dedicação, aprendizado contínuo e prática. Meu objetivo é crescer como desenvolvedora backend Java, criando software de qualidade, resolvendo problemas reais e contribuindo para o sucesso dos projetos e das equipes das quais fizer parte.
-
+🚀 Sou apaixonada por ficção científica e, por essa influência, despertei meu interesse por tecnologia. Ao conhecer o desenvolvimento de software, tive certeza de que era o caminho que queria seguir.
+ 
+💻 Com isso em mente comecei a estudar Análise e Desenvolvimento De Sistemas com foco em Backend utilizando Java e Spring Boot, busco evoluir continuamente por meio de projetos práticos, estudo constante e desafios que fortalecem minha capacidade de desenvolver soluções robustas e bem estruturadas. 
+📚Acredito que excelência técnica se constrói com dedicação, aprendizado contínuo e prática.
 
 ---
 
